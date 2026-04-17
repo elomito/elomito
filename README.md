@@ -10,7 +10,8 @@ Open for freelance & contract opportunities</h3>
 
 ## 💡 About Me
 
-I'm a results-driven full-stack developer with 3+ years of experience building scalable web and mobile applications for startups and SMEs. I specialize in JavaScript, React, Next.js, Node.js, and cloud-based SaaS solutions. My work is focused on delivering robust, user-centric products with rapid turnaround and clear communication.
+I'm a full-stack developer focused on building scalable web and mobile applications for startups and SMEs. I specialize in Go (Golang) and modern JavaScript technologies including React, Next.js, and Node.js, with experience across both frontend and backend development.
+I bring a security-conscious approach to software engineering, applying best practices in secure coding, data protection, and system reliability to build robust applications.
 
 ---
 
@@ -28,13 +29,11 @@ If you have an idea or need technical expertise, let's turn your vision into rea
 
 ## 📫 Let’s Work Together!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clinton.o.odhiambo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clinton-otieno)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omitolizatieno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elomito)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elomito)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elomito)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/elomito)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@elomito)
 
 Open to freelance, contract, or collaboration opportunities.  
 Let’s build something amazing!
