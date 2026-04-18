@@ -3,15 +3,14 @@
 </div>
 
 <h1 align="center">Hello, world 👋, I'm Elizabeth</h1>
-<h3 align="center">Full-stack Developer | React | Next.js | SaaS Solutions  
-Open for freelance & contract opportunities</h3>
+<h3 align="center">Full-Stack Developer | Go (Golang) • React • Secure & Scalable Systems</h3>
 
 ---
 
 ## 💡 About Me
 
 I'm a full-stack developer focused on building scalable web and mobile applications for startups and SMEs. I specialize in Go (Golang) and modern JavaScript technologies including React, Next.js, and Node.js, with experience across both frontend and backend development.
-I bring a security-conscious approach to software engineering, applying best practices in secure coding, data protection, and system reliability to build robust applications.
+I also bring a security-conscious approach to software engineering, applying best practices in secure coding, data protection, and system reliability to build robust applications.
 
 ---
 
@@ -30,10 +29,10 @@ If you have an idea or need technical expertise, let's turn your vision into rea
 ## 📫 Let’s Work Together!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omitolizatieno@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elomito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizabeth-omito)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Elizabe65391978)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elomito)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/elomito)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/elizabeth_omito)
 
 Open to freelance, contract, or collaboration opportunities.  
 Let’s build something amazing!
@@ -47,9 +46,6 @@ Let’s build something amazing!
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
@@ -63,13 +59,9 @@ Let’s build something amazing!
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
 </details>
 
@@ -90,7 +82,6 @@ Let’s build something amazing!
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
@@ -104,7 +95,7 @@ Let’s build something amazing!
 - 📱 React Native + Expo for mobile dev
 - 🔧 Docker & CI/CD pipelines
 - 🤖 AI APIs & building with GPT
-
+- 🧩 Go (Golang)
 ---
 
 ## 📊 GitHub Stats
@@ -117,11 +108,9 @@ Let’s build something amazing!
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📌 XtremeArt YouTube Clone](https://github.com/elomito/youtube_clone) | A full-stack YouTube clone with video uploads, real-time streaming, and user auth. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/node.js-green?style=flat&logo=node.js) ![tRPC](https://img.shields.io/badge/tRPC-%23E10098?style=flat&logo=trpc&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-%23000000.svg?style=flat&logo=upstash) ![Clerk](https://img.shields.io/badge/Clerk-%23ff4a4a.svg?style=flat&logo=clerk&logoColor=white) ![Mux](https://img.shields.io/badge/Mux-FF0000?style=flat&logo=mux&logoColor=white) ![Drizzle](https://img.shields.io/badge/DrizzleKit-000000?style=flat&logo=drizzle&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white) |
-| [📌 Sensei AI SaaS](https://github.com/elomito/Sensei-ai_saas) | An AI SaaS platform offering chat, summarization, code generation, and more—powered by OpenAI. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-%23ff4a4a.svg?style=flat&logo=clerk&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) |
+| [📌 FindIt ](https://github.com/elomito/youtube_clone) | A full-stack web application that helps people report lost and found items and reconnect them with their rightful owners.| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) |
 
 ---
 
@@ -134,5 +123,5 @@ Let’s build something amazing!
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=clintoo&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=elomito&color=blue&style=flat" alt="Profile Views"/>
 </p>
