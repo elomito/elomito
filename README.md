@@ -9,8 +9,10 @@
 
 ## 💡 About Me
 
-I'm a full-stack developer focused on building scalable web and mobile applications for startups and SMEs. I specialize in Go (Golang) and modern JavaScript technologies including React, Next.js, and Node.js, with experience across both frontend and backend development.
-I also bring a security-conscious approach to software engineering, applying best practices in secure coding, data protection, and system reliability to build robust applications.
+I am Software developer with hands-on experience in frontend development, backend systems, DevOps practices, and Agile project
+delivery. Experienced in building web applications using React, JavaScript, Go, and REST APIs, while working with Git, Docker,
+and collaborative development workflows. Strong problem-solving and debugging skills with a background in Computer Security
+and Forensics and practical experience delivering technology projects in collaborative environments.
 
 ---
 
